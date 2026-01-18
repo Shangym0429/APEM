@@ -6,6 +6,7 @@
 This is a multimodal farmland segmentation model based on the Swin-V2-B backbone, Agriculture-BERT text encoder, Mamba global modeling, local self-attention and cross-modal attention, and attention-guided adaptive fusion. The model features a specially designed boundary enhancement branch to further improve edge accuracy.
 
 **Key Features**
+
 Backbone: Swin-Transformer V2-B (Visual) & Agriculture-BERT (Text).
 
 Core Mechanism: Attention-Guided Adaptive Fusion based on Kalman Filter principles to handle cross-modal uncertainty.
