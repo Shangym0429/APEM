@@ -1,0 +1,8 @@
+torch == 2.7.1+cu118
+torchaudio == 2.7.1+cu128
+torchvision == 0.22.1+cu128
+torchgeo
+transformers == 4.57.3
+tqdm
+mamba_ssm
+PIL
